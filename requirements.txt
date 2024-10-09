@@ -1,0 +1,8 @@
+flask
+PyPDF2
+pdfminer.six
+nltk
+loguru
+sentence-transformers
+pinecone-client
+openai
