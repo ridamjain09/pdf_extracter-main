@@ -7,8 +7,7 @@ Information Extraction & Tagging:
 Extract equipment name, domain (electronics, mechanical, etc.), model numbers, and manufacturer for each section.
 Vector Database Integration:
 
-Implement a vector database like Pinecone, Weaviate, or Milvus to store vector representations of each section and their metadata.
-Query Processing:
+Implement a vector database like Pinecone.
 
 Design a query system that takes user input, extracts the relevant entities (equipment, model, manufacturer), converts the query into vectors, and retrieves relevant sections.
 Response Generation:
